@@ -234,6 +234,10 @@ table th {
   color: #363636;
 }
 
+nav, nav a {
+    color: #fff;
+}
+
 .is-block {
   display: block;
 }
